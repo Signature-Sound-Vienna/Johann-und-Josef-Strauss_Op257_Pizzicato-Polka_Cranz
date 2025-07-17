@@ -2172,64 +2172,64 @@
                      <scoreDef xml:id="sii3kms">
                         <staffGrp xml:id="st8oybg">
                            <staffDef xml:id="s1uunm1w" n="1">
-                              <keySig xml:id="kibqqke" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="kibqqke" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="s1ka5ve0" n="2">
-                              <keySig xml:id="k5b2pqg" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="k5b2pqg" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="svdt6xt" n="3">
-                              <keySig xml:id="ktwwblj" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="ktwwblj" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="szak556" n="4">
-                              <keySig xml:id="kbf6qpi" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="kbf6qpi" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="s1je53aw" n="5">
-                              <keySig xml:id="k1cpz64p" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="k1cpz64p" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="s17nypdz" n="6">
-                              <keySig xml:id="keb0159" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="keb0159" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="s1k27eyc" n="7">
-                              <keySig xml:id="kpq2fzu" sig="2s" sig.showchange="true"/>
+                              <keySig xml:id="kpq2fzu" sig="2s"/>
                            </staffDef>
                            <staffDef xml:id="s17mu3i9" n="8">
-                              <keySig xml:id="k1bchxgn" sig="2s" sig.showchange="true"/>
+                              <keySig xml:id="k1bchxgn" sig="2s"/>
                            </staffDef>
                            <staffDef xml:id="s4sqdwg" n="9">
-                              <keySig xml:id="k1sbcvuq" sig="2s" sig.showchange="true"/>
+                              <keySig xml:id="k1sbcvuq" sig="2s"/>
                            </staffDef>
                            <staffDef xml:id="s16okunq" n="10">
-                              <keySig xml:id="k1uwb7re" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="k1uwb7re" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="s1oobri5" n="11">
-                              <keySig xml:id="k1j9l9q1" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="k1j9l9q1" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="suu39rv" n="12">
-                              <keySig xml:id="k1iv00th" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k1iv00th" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s181r3oe" n="13">
-                              <keySig xml:id="ke9rfw" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="ke9rfw" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s1f7e9en" n="14">
-                              <keySig xml:id="k19j93np" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k19j93np" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s1df44vv" n="15">
-                              <keySig xml:id="k4ethzj" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="k4ethzj" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="s529uu0" n="16">
-                              <keySig xml:id="k5eob6t" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="k5eob6t" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="s1l7na5w" n="17">
-                              <keySig xml:id="k18n1v5g" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="k18n1v5g" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="s1tylzsr" n="18">
-                              <keySig xml:id="k1agkjfu" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="k1agkjfu" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="ss5qdk9" n="19">
-                              <keySig xml:id="k1wo1qpx" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="k1wo1qpx" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="sjlouzw" n="20">
-                              <keySig xml:id="kgb288q" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="kgb288q" sig="1s"/>
                            </staffDef>
                         </staffGrp>
                      </scoreDef>
@@ -3849,64 +3849,64 @@
                      <scoreDef xml:id="s1h2rask">
                         <staffGrp xml:id="s1vfs0r2">
                            <staffDef xml:id="s1t2fh50" n="1">
-                              <keySig xml:id="kq6sof" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="kq6sof" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s1oo8uaa" n="2">
-                              <keySig xml:id="k17ignd5" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k17ignd5" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s18c6r4b" n="3">
-                              <keySig xml:id="k1gcn1he" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k1gcn1he" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="snnz7a2" n="4">
-                              <keySig xml:id="k1con23d" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k1con23d" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="svsbys4" n="5">
-                              <keySig xml:id="k1w7b8p5" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k1w7b8p5" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="suwjmid" n="6">
-                              <keySig xml:id="k1fj1l2v" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k1fj1l2v" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s1dxetp4" n="7">
-                              <keySig xml:id="kcb5ryc" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="kcb5ryc" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="s1hgvq8h" n="8">
-                              <keySig xml:id="k4ah962" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="k4ah962" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="s1ddtbdg" n="9">
-                              <keySig xml:id="k79j575" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="k79j575" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="szur97l" n="10">
-                              <keySig xml:id="k5i2p21" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k5i2p21" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="snzi1g" n="11">
-                              <keySig xml:id="k1djth30" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k1djth30" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="sd3ktq" n="12">
-                              <keySig xml:id="k19nfmvf" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k19nfmvf" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s1b30jft" n="13">
-                              <keySig xml:id="kaue0zm" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="kaue0zm" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s521r3f" n="14">
-                              <keySig xml:id="k1fcenyo" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k1fcenyo" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s13l0zb2" n="15">
-                              <keySig xml:id="k1kw6tio" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k1kw6tio" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="st3wq53" n="16">
-                              <keySig xml:id="k1kd4f8q" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k1kd4f8q" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s2kq1xr" n="17">
-                              <keySig xml:id="knpr8m5" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="knpr8m5" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="ssdun9c" n="18">
-                              <keySig xml:id="k6ramqe" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k6ramqe" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s15p8fpe" n="19">
-                              <keySig xml:id="k1reg99z" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k1reg99z" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="skubxda" n="20">
-                              <keySig xml:id="kevfrjg" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="kevfrjg" sig="0"/>
                            </staffDef>
                         </staffGrp>
                      </scoreDef>
@@ -5097,64 +5097,64 @@
                      <scoreDef xml:id="s8uqsdu">
                         <staffGrp xml:id="s1f9mjfk">
                            <staffDef xml:id="s1h61f3k" n="1">
-                              <keySig xml:id="k1qylpwo" sig="1f" sig.showchange="true"/>
+                              <keySig xml:id="k1qylpwo" sig="1f"/>
                            </staffDef>
                            <staffDef xml:id="spbwsa3" n="2">
-                              <keySig xml:id="k15da6os" sig="1f" sig.showchange="true"/>
+                              <keySig xml:id="k15da6os" sig="1f"/>
                            </staffDef>
                            <staffDef xml:id="svxd3z3" n="3">
-                              <keySig xml:id="klt8982" sig="1f" sig.showchange="true"/>
+                              <keySig xml:id="klt8982" sig="1f"/>
                            </staffDef>
                            <staffDef xml:id="sk5dkrg" n="4">
-                              <keySig xml:id="k1d79guk" sig="1f" sig.showchange="true"/>
+                              <keySig xml:id="k1d79guk" sig="1f"/>
                            </staffDef>
                            <staffDef xml:id="slp3740" n="5">
-                              <keySig xml:id="ktskjtk" sig="1f" sig.showchange="true"/>
+                              <keySig xml:id="ktskjtk" sig="1f"/>
                            </staffDef>
                            <staffDef xml:id="s1jyuse5" n="6">
-                              <keySig xml:id="kndrcj1" sig="1f" sig.showchange="true"/>
+                              <keySig xml:id="kndrcj1" sig="1f"/>
                            </staffDef>
                            <staffDef xml:id="s14zuf7" n="7">
-                              <keySig xml:id="k60nttc" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k60nttc" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s13vn5qk" n="8">
-                              <keySig xml:id="k145zg4j" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k145zg4j" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s16big4z" n="9">
-                              <keySig xml:id="k1d7pjlb" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k1d7pjlb" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="sraqmv2" n="10">
-                              <keySig xml:id="ku39zkp" sig="1f" sig.showchange="true"/>
+                              <keySig xml:id="ku39zkp" sig="1f"/>
                            </staffDef>
                            <staffDef xml:id="s163wcfk" n="11">
-                              <keySig xml:id="ky0u4jg" sig="1f" sig.showchange="true"/>
+                              <keySig xml:id="ky0u4jg" sig="1f"/>
                            </staffDef>
                            <staffDef xml:id="s8jk1v5" n="12">
-                              <keySig xml:id="k1ld04i9" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k1ld04i9" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s1jhvw27" n="13">
-                              <keySig xml:id="kl4xl9i" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="kl4xl9i" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s1ckuqwz" n="14">
-                              <keySig xml:id="ka4rxl5" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="ka4rxl5" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="ssmkgza" n="15">
-                              <keySig xml:id="k1ip769l" sig="1f" sig.showchange="true"/>
+                              <keySig xml:id="k1ip769l" sig="1f"/>
                            </staffDef>
                            <staffDef xml:id="shyg79v" n="16">
-                              <keySig xml:id="k1v91ji9" sig="1f" sig.showchange="true"/>
+                              <keySig xml:id="k1v91ji9" sig="1f"/>
                            </staffDef>
                            <staffDef xml:id="s23pdz2" n="17">
-                              <keySig xml:id="k1ffcmnj" sig="1f" sig.showchange="true"/>
+                              <keySig xml:id="k1ffcmnj" sig="1f"/>
                            </staffDef>
                            <staffDef xml:id="s1253fwf" n="18">
-                              <keySig xml:id="k1w9pxab" sig="1f" sig.showchange="true"/>
+                              <keySig xml:id="k1w9pxab" sig="1f"/>
                            </staffDef>
                            <staffDef xml:id="sa1ds8h" n="19">
-                              <keySig xml:id="kjeudhd" sig="1f" sig.showchange="true"/>
+                              <keySig xml:id="kjeudhd" sig="1f"/>
                            </staffDef>
                            <staffDef xml:id="sgld30i" n="20">
-                              <keySig xml:id="k1y4qmbm" sig="1f" sig.showchange="true"/>
+                              <keySig xml:id="k1y4qmbm" sig="1f"/>
                            </staffDef>
                         </staffGrp>
                      </scoreDef>
@@ -8948,64 +8948,64 @@
                      <scoreDef xml:id="s1c15ne">
                         <staffGrp xml:id="suogeko">
                            <staffDef xml:id="s1mfy4of" n="1">
-                              <keySig xml:id="k1el73r7" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k1el73r7" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="skyponc" n="2">
-                              <keySig xml:id="k12l1tdl" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k12l1tdl" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s1odcaow" n="3">
-                              <keySig xml:id="k77hrbl" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k77hrbl" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s17ux0my" n="4">
-                              <keySig xml:id="kwlhyby" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="kwlhyby" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s1kgjpuj" n="5">
-                              <keySig xml:id="k167r3fg" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k167r3fg" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s1o5vxm5" n="6">
-                              <keySig xml:id="kgsk1hq" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="kgsk1hq" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s1mgwz9k" n="7">
-                              <keySig xml:id="k1y5wku" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="k1y5wku" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="s1djo9mn" n="8">
-                              <keySig xml:id="kkbc4ef" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="kkbc4ef" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="s1hff2rz" n="9">
-                              <keySig xml:id="kt5mc8n" sig="1s" sig.showchange="true"/>
+                              <keySig xml:id="kt5mc8n" sig="1s"/>
                            </staffDef>
                            <staffDef xml:id="sse9uit" n="10">
-                              <keySig xml:id="kpkchyq" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="kpkchyq" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s16jbf5q" n="11">
-                              <keySig xml:id="kgg9c6h" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="kgg9c6h" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s1j9nlq0" n="12">
-                              <keySig xml:id="k5nujgd" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k5nujgd" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s1qj4z4x" n="13">
-                              <keySig xml:id="kse786z" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="kse786z" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s7wcmmb" n="14">
-                              <keySig xml:id="kgn1ow2" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="kgn1ow2" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s9hrun8" n="15">
-                              <keySig xml:id="k1ciju12" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k1ciju12" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s1u15k1a" n="16">
-                              <keySig xml:id="kjpazo9" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="kjpazo9" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s1gu6vt2" n="17">
-                              <keySig xml:id="k33ojee" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k33ojee" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="skyp9np" n="18">
-                              <keySig xml:id="ka4yrnq" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="ka4yrnq" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="shh3pyb" n="19">
-                              <keySig xml:id="k1r0qw0r" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="k1r0qw0r" sig="0"/>
                            </staffDef>
                            <staffDef xml:id="s1k3hzx9" n="20">
-                              <keySig xml:id="koi14gy" sig="0" sig.showchange="true"/>
+                              <keySig xml:id="koi14gy" sig="0"/>
                            </staffDef>
                         </staffGrp>
                      </scoreDef>
